@@ -1,6 +1,6 @@
 Hi there,
 
-I'm Praveen Prakash, 4th year Undergraduate student doing my major in Electronics and Communication Engineering from NIT Jamshedpur.
+I'm Praveen Prakash, final year Undergraduate student doing my major in Electronics and Communication Engineering from NIT Jamshedpur.
 
 I am a Full Stack(MERN) Web developer with good knowledge of Algorithms and Data Structures.
 <!---
