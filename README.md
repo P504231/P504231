@@ -1,19 +1,14 @@
-### Hi there, I'm Ashish  👋
+### Hi there, I'm Praveen  👋
 
 
 ## I'm a student at NIT Jamshedpur!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: start competitive coding
-- ⚡ Fun fact: I love to play pubg
+- ⚡ Fun fact: I love to play chess
 
 
 ### Connect with me:
-
-[<img align="left" alt="ashish | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ashish | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ashish | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
 <br />
 
 ### Languages and Tools:
@@ -31,14 +26,4 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ashishk1506&show_icons=true&hide_border=true" />
-
-</details> 
-
-[twitter]: https://twitter.com/AshishK85537027
-[facebook]: https://www.facebook.com/profile.php?id=100013419812921
-[linkedin]: linkedin.com/in/ashish-kumar-9843931a4
+[linkedin]: https://www.linkedin.com/in/praveen-prakash-01b218210/
