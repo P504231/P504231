@@ -4,7 +4,7 @@
 ## I'm a student at NIT Jamshedpur!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to play chess
+- ⚡ Fun fact: I love to play chess and it's variants
 
 
 ### Connect with me:
