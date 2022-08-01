@@ -3,7 +3,7 @@
 
 ## I'm a student at NIT Jamshedpur!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything :sweat_smile:
 - ⚡ Fun fact: I love to play chess and it's variants
 
 
